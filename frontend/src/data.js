@@ -9,7 +9,7 @@ let data = {
         price: 60,
         brand: "Nike",
         rating: 4.5,
-        numReviews: 10,
+        numReviews: 0,
       },
       {
         _id : 2,
